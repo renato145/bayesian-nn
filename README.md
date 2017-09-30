@@ -1,1 +1,1 @@
-# minist-bayesian
+# bayesian-nn
